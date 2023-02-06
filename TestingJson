@@ -1,0 +1,36 @@
+{
+"UserInfo":[
+{
+"UserId":"0",
+"FirstName":"User1",
+"Surname":"s1",
+"PlayerDesc":"Into VR developer and creating a game.",
+"MaxGold":"523",
+"Team":"Red"
+},
+{
+"UserId":"1",
+"FirstName":"user2",
+"Surname":"s2",
+"PlayerDesc":"Into VR developer and creating a game.",
+"MaxGold":"523",
+"Team":"Green"
+},
+{
+"UserId":"2",
+"FirstName":"user3",
+"Surname":"s3",
+"PlayerDesc":"Into VR developer and creating a game.",
+"MaxGold":"523",
+"Team":"Red"
+},
+{
+"UserId":"3",
+"FirstName":"user4",
+"Surname":"s4",
+"PlayerDesc":"Into VR developer and creating a game.",
+"MaxGold":"523",
+"Team":"Green"
+}
+]
+}
